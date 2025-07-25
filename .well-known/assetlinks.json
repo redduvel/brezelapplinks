@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.example.brezel_app",
+      "package_name": "com.brezel.app",
+      "sha256_cert_fingerprints":
+      ["EF:29:74:9A:D6:83:3A:A3:96:B4:D6:5F:24:43:75:6B:53:7C:FD:88:A1:0C:1C:EC:CD:2D:3E:CC:0B:A5:08:4C"]
+    }
+  }]
