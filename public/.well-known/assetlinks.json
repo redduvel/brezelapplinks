@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brezel.app",
+      "sha256_cert_fingerprints": [
+        "EF:29:74:9A:D6:83:3A:A3:96:B4:D6:5F:24:43:75:6B:53:7C:FD:88:A1:0C:1C:EC:CD:2D:3E:CC:0B:A5:08:4C",
+        "78:70:7c:cf:d5:5e:76:3b:bf:e9:3f:ce:ea:a7:65:ca:40:5d:23:dc:93:17:6f:40:5d:80:0d:16:14:89:84:11",
+        "3a:eb:73:af:22:eb:f4:9a:3e:03:29:64:b4:81:56:c2:2b:13:35:9d:69:66:4b:15:20:0a:ba:8c:18:d0:7d:d3 "
+      ]
+    }
+  }
+]

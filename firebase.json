@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "brezel-app-links",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

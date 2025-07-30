@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "CKVAJS5NS2.com.brezel.app"
+        ],
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
